@@ -1,0 +1,5 @@
+env/
+
+src/__py__cache__
+
+tmp/
